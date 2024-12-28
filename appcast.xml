@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TypoTab</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sat, 28 Dec 2024 22:12:27 +0000</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/eeecoh/typotab-releases/releases/download/prod/TypoTab.dmg" length="7559241" type="application/octet-stream" sparkle:edSignature="WgAHOO9j/lY0wPf+xGRkCDgT/8y/NJaLOcJNgR984l5Tqv2/PuW6CLNHPU0Gw3YUzULdAs1cAdtPUjieCFj8Cg=="/>
+        </item>
+    </channel>
+</rss>
