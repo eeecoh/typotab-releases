@@ -3,12 +3,12 @@
     <channel>
         <title>TypoTab</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 16 Feb 2025 00:24:02 +0000</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Wed, 19 Mar 2025 18:51:21 +0000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/eeecoh/typotab-releases/releases/download/prod/TypoTab.dmg" length="15948958" type="application/octet-stream" sparkle:edSignature="04LqTJ2FIr3OwlDG2lj2NINkPYq+ueANCqP6cDLw40LKjOp83qVkhqIGArQcCW8ANhmFw3ppPQPo+fo3VtaoAA=="/>
+            <enclosure url="https://github.com/eeecoh/typotab-releases/releases/download/prod/TypoTab.dmg" length="18295602" type="application/octet-stream" sparkle:edSignature="NAtTp+4fF/4t36Fs0C9N9EIDLUOKN5/CVIGTJNFcRpygzgPXj38Ur6Bj45EZucTBObZDqXShPWJToUbNNdCrBQ=="/>
         </item>
     </channel>
 </rss>
