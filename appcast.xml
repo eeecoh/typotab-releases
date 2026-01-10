@@ -8,7 +8,7 @@
             <sparkle:version>1.1.0</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/notnotDudu/typotab-releases/releases/download/prod/TypoTab.dmg" length="18295602" type="application/octet-stream" sparkle:edSignature="NAtTp+4fF/4t36Fs0C9N9EIDLUOKN5/CVIGTJNFcRpygzgPXj38Ur6Bj45EZucTBObZDqXShPWJToUbNNdCrBQ=="/>
+            <enclosure url="https://github.com/eeecoh/typotab-releases/releases/download/prod/TypoTab.dmg" length="18295602" type="application/octet-stream" sparkle:edSignature="NAtTp+4fF/4t36Fs0C9N9EIDLUOKN5/CVIGTJNFcRpygzgPXj38Ur6Bj45EZucTBObZDqXShPWJToUbNNdCrBQ=="/>
         </item>
     </channel>
 </rss>
